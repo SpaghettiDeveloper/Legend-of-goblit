@@ -52,6 +52,10 @@ Art, Story and Programming -
     Pyweek: http://pyweek.org/u/mauve
     Twitter/Facebook: @lordmauve
     Bitbucket: https://bitbucket.com/lordmauve/
+    
+maintenance project -
+    Stefano Peris
+    eMail: stefano.peris.dev@gmail.com
 
 Font -
     AJ Paglia
