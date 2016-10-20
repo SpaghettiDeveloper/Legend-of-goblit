@@ -2,7 +2,7 @@
 The Legend of Goblit
 ====================
 
-> An Adventure Stage play for Pyweek 19, by Daniel Pope.
+## An Adventure Stage play for Pyweek 19, by Daniel Pope.
 
 This game was inspired by classic adventure games, but also took inspiration
 from single-set stage plays. The competition theme was "One Room" and so
