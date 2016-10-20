@@ -53,7 +53,7 @@ Art, Story and Programming -
     Twitter/Facebook: @lordmauve
     Bitbucket: https://bitbucket.com/lordmauve/
     
-maintenance project -
+Maintenance project -
     Stefano Peris
     eMail: stefano.peris.dev@gmail.com
 
