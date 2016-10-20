@@ -53,7 +53,6 @@ Credits
 - Stefano Peris :octocat:
 <br>
 <br>
-
 **Maintenance project**
 <br>
     Stefano Peris
@@ -61,7 +60,6 @@ Credits
     eMail: stefano.peris.dev@gmail.com
 <br>
 <br>
-
 **Font**
 <br>
     AJ Paglia
@@ -71,7 +69,6 @@ Credits
     http://www.1001freefonts.com/roses_are_ff0000.font
 <br>
 <br>
-
 **Music**
 <br>
     Sourced from http://freemusicarchive.org/
