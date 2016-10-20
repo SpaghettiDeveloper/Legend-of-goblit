@@ -47,20 +47,20 @@ out of sync, but this is temporary.
 Credits
 -------
 
-###### Art, Story and Programming
+**Art, Story and Programming**
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
     
-###### Maintenance project
+**Maintenance project**
     Stefano Peris
-    eMail: *stefano.peris.dev@gmail.com*
+    eMail: stefano.peris.dev@gmail.com
 
-###### Font
+**Font**
     AJ Paglia
     http://www.ajpaglia.com/
     http://www.1001freefonts.com/roses_are_ff0000.font
 
-###### Music
+**Music**
     Sourced from http://freemusicarchive.org/
 
     "Python" by Rolemusic
