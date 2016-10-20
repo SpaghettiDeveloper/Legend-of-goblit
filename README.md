@@ -49,7 +49,6 @@ Credits
 
 **Art, Story and Programming**
 <br>
-<br>
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
 <br>
