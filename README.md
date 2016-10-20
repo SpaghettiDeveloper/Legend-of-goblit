@@ -49,16 +49,20 @@ Credits
 
 **Art, Story and Programming**
 <br>
+<br>
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
 <br>
 **Maintenance project**
 <br>
+<br>
     Stefano Peris
     <br>
     eMail: stefano.peris.dev@gmail.com
-<br>    
+<br>
+<br>
 **Font**
+<br>
 <br>
     AJ Paglia
     <br>
@@ -66,7 +70,9 @@ Credits
     <br>
     http://www.1001freefonts.com/roses_are_ff0000.font
 <br>
+<br>
 **Music**
+<br>
 <br>
     Sourced from http://freemusicarchive.org/
 <br>
