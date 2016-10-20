@@ -53,8 +53,8 @@ Credits
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
 <br>
-**Maintenance project**
 <br>
+**Maintenance project**
 <br>
     Stefano Peris
     <br>
@@ -63,16 +63,13 @@ Credits
 <br>
 **Font**
 <br>
-<br>
     AJ Paglia
     <br>
     http://www.ajpaglia.com/
     <br>
     http://www.1001freefonts.com/roses_are_ff0000.font
 <br>
-<br>
 **Music**
-<br>
 <br>
     Sourced from http://freemusicarchive.org/
 <br>
