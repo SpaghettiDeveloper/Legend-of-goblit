@@ -48,22 +48,31 @@ Credits
 -------
 
 **Art, Story and Programming**
+<br>
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
-
+<br>
 **Maintenance project**
+<br>
     Stefano Peris
+    <br>
     eMail: stefano.peris.dev@gmail.com
-    
+<br>    
 **Font**
+<br>
     AJ Paglia
+    <br>
     http://www.ajpaglia.com/
+    <br>
     http://www.1001freefonts.com/roses_are_ff0000.font
-    
+<br>
 **Music**
+<br>
     Sourced from http://freemusicarchive.org/
-
+<br>
     "Python" by Rolemusic
+<br>
     "Wizard House" by AzureFlux
+<br>
     "Gringo Steele rocks the 40" by Rolemusic
-
+<br>
