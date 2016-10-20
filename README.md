@@ -46,7 +46,7 @@ out of sync, but this is temporary.
 
 Credits
 -------
-```
+
 **Art, Story and Programming**
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
@@ -66,4 +66,4 @@ Credits
     "Python" by Rolemusic
     "Wizard House" by AzureFlux
     "Gringo Steele rocks the 40" by Rolemusic
-```
+
