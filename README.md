@@ -1,6 +1,6 @@
-# ====================
-# The Legend of Goblit
-# ====================
+====================
+The Legend of Goblit
+====================
 
 ## > An Adventure Stage play for Pyweek 19, by Daniel Pope.
 
