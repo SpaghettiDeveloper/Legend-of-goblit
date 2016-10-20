@@ -53,7 +53,7 @@ Credits
     
 ###### Maintenance project
     Stefano Peris
-    eMail: stefano.peris.dev@gmail.com
+    eMail: [GitHub Pages](stefano.peris.dev@gmail.com)
 
 ###### Font
     AJ Paglia
