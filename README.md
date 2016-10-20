@@ -48,8 +48,8 @@ Credits
 -------
 
 ###### Art, Story and Programming
-- Daniel Pope
-- Stefano Peris
+- Daniel Pope :skull:
+- Stefano Peris :octocat:
     
 ###### Maintenance project
     Stefano Peris
