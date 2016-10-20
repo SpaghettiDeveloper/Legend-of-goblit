@@ -48,10 +48,8 @@ Credits
 -------
 
 Art, Story and Programming -
-    Daniel Pope
-    Pyweek: http://pyweek.org/u/mauve
-    Twitter/Facebook: @lordmauve
-    Bitbucket: https://bitbucket.com/lordmauve/
+- Daniel Pope
+- Stefano Peris
     
 Maintenance project -
     Stefano Peris
