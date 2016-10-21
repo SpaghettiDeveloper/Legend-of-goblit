@@ -7,7 +7,6 @@ Legend of Goblit
 This game was inspired by classic adventure games, but also took inspiration
 from single-set stage plays. The competition theme was "One Room" and so
 naturally, all of the action is set in the same room.
-<br>
 
 ## Installing
 ----------
@@ -18,7 +17,6 @@ There are binaries for Pygame for Python 3:
 
 * https://bitbucket.org/pygame/pygame/downloads - Windows
 * https://launchpad.net/~thopiekar/+archive/ubuntu/pygame - Ubuntu
-<br>
 
 ## Playing
 -------
@@ -34,7 +32,6 @@ is completely driven from this data, so do not modify it!
 
 On the other hand, if you want to mod it, go ahead. The syntax isn't too
 hairy.
-<br>
 
 ## Known Bugs
 ----------
@@ -46,7 +43,6 @@ want to rewind.
 
 Skipping rapidly while in a dialogue can occasionally cause the action to go
 out of sync, but this is temporary.
-<br>
 
 Credits
 -------
