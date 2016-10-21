@@ -48,14 +48,12 @@ Credits
 -------
 
 **Art, Story and Programming**
-**--------------------------**
 <br>
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
 <br>
 
 **Maintenance project**
-**-------------------**
 <br>
     Stefano Peris - {SpaghettiDeveloper}
     <br>
@@ -63,7 +61,6 @@ Credits
 <br>
 
 **Font**
-**----**
 <br>
     AJ Paglia
     <br>
@@ -73,7 +70,6 @@ Credits
 <br>
 
 **Music**
-**-----**
 <br>
     Sourced from http://freemusicarchive.org/
 <br>
@@ -85,7 +81,6 @@ Credits
 <br>
 
 **License**
-**-------**
 <br>
 The game's source code and artwork, sound, and music assets are provided under
 the terms of the GNU General Public License version 3, or (at your option) any
