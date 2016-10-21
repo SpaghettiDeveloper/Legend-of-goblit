@@ -55,7 +55,7 @@ Credits
 
 **Maintenance project**
 <br>
-    Stefano Peris
+    Stefano Peris <SpaghettiDeveloper>
     <br>
     eMail: stefano.peris.dev@gmail.com
 <br>
