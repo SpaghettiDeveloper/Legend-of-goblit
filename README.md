@@ -4,9 +4,7 @@ Legend of Goblit
 
 ## An Adventure Stage play for Pyweek 19, by Daniel Pope.
 
-This game was inspired by classic adventure games, but also took inspiration
-from single-set stage plays. The competition theme was "One Room" and so
-naturally, all of the action is set in the same room.
+###### This game was inspired by classic adventure games, but also took inspiration from single-set stage plays. The competition theme was "One Room" and so naturally, all of the action is set in the same room.
 
 ## Installing
 ----------
