@@ -48,12 +48,14 @@ Credits
 -------
 
 **Art, Story and Programming**
+**--------------------------**
 <br>
 - Daniel Pope :skull:
 - Stefano Peris :octocat:
 <br>
 
 **Maintenance project**
+**-------------------**
 <br>
     Stefano Peris - {SpaghettiDeveloper}
     <br>
@@ -61,6 +63,7 @@ Credits
 <br>
 
 **Font**
+**----**
 <br>
     AJ Paglia
     <br>
@@ -70,6 +73,7 @@ Credits
 <br>
 
 **Music**
+**-----**
 <br>
     Sourced from http://freemusicarchive.org/
 <br>
@@ -78,4 +82,19 @@ Credits
     "Wizard House" by AzureFlux
 <br>
     "Gringo Steele rocks the 40" by Rolemusic
+<br>
+
+**License**
+**-------**
+<br>
+The game's source code and artwork, sound, and music assets are provided under
+the terms of the GNU General Public License version 3, or (at your option) any
+later version. Note that for artwork, sound, and music, we interpret
+"preferred form of the work for making modifications" as the modifiable form
+that the author chooses to ship us for the source tree. For convenience, a
+reference copy of the GNU GPL version 3 is provided in the COPYING file in
+this distribution.
+<br>
+Some portions of the source code can be used under different license terms,
+whenever stated as such in the source.
 <br>
