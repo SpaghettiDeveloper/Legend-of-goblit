@@ -80,8 +80,7 @@ Credits
     "Gringo Steele rocks the 40" by Rolemusic
 <br>
 
-# License<br>
-![gplv3-88x31](https://cloud.githubusercontent.com/assets/19865310/19598143/7d2aa422-9799-11e6-8292-5064569c2c81.png)
+# License ![gplv3-88x31](https://cloud.githubusercontent.com/assets/19865310/19598143/7d2aa422-9799-11e6-8292-5064569c2c81.png)<br>
 <br>
 The game's source code and artwork, sound, and music assets are provided under
 the terms of the GNU General Public License version 3, or (at your option) any
