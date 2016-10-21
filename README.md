@@ -1,5 +1,5 @@
 =================
-Legend of Goblit
+Legend of Goblit ![icon](https://cloud.githubusercontent.com/assets/19865310/19602004/c3b65280-97ab-11e6-892a-50efef5fde93.png)
 =================
 
 ## An Adventure Stage play for Pyweek 19, by Daniel Pope.
