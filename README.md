@@ -81,7 +81,7 @@ Credits
 <br>
 
 **License**
-![alt tag](https://github.com/SpaghettiDeveloper/Legend-of-goblit/gplv3-127x51.png "GPL3_Logo")
+![image](https://github.com/SpaghettiDeveloper/Legend-of-goblit/gplv3-127x51.png{url})
 <br>
 The game's source code and artwork, sound, and music assets are provided under
 the terms of the GNU General Public License version 3, or (at your option) any
