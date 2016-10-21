@@ -90,6 +90,6 @@ that the author chooses to ship us for the source tree. For convenience, a
 reference copy of the GNU GPL version 3 is provided in the COPYING file in
 this distribution.<br>
 
-Some portions of the source code can be used under different license terms,
-whenever stated as such in the source.
+**Some portions of the source code can be used under different license terms,
+whenever stated as such in the source.**
 <br>
