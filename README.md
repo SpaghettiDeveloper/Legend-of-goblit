@@ -2,7 +2,7 @@
 Legend of Goblit ![icon](https://cloud.githubusercontent.com/assets/19865310/19602004/c3b65280-97ab-11e6-892a-50efef5fde93.png)
 =================
 
-## An Adventure Stage play for Pyweek 19, by Daniel Pope.
+## Point & Click Fantasy Adventure.
 
 ###### This game was inspired by classic adventure games, but also took inspiration from single-set stage plays. The competition theme was "One Room" and so naturally, all of the action is set in the same room.
 
