@@ -7,7 +7,7 @@ Legend of Goblit ![icon](https://cloud.githubusercontent.com/assets/19865310/196
 ###### This game was inspired by classic adventure games, but also took inspiration from single-set stage plays. The competition theme was "One Room" and so naturally, all of the action is set in the same room.
 
 ## Installing
-----------
+-------------
 
 You will need Python 3 and Pygame.
 
@@ -17,7 +17,7 @@ There are binaries for Pygame for Python 3:
 * https://launchpad.net/~thopiekar/+archive/ubuntu/pygame - Ubuntu
 
 ## Playing
--------
+----------
 
 Everything is point and click, with the left mouse button.
 
@@ -32,7 +32,7 @@ On the other hand, if you want to mod it, go ahead. The syntax isn't too
 hairy.
 
 ## Known Bugs
-----------
+-------------
 
 The game is definitely completable if you do it in a single pass, but the
 autosaving process may still have bugs, and a restored save game could in some
@@ -42,7 +42,7 @@ want to rewind.
 Skipping rapidly while in a dialogue can occasionally cause the action to go
 out of sync, but this is temporary.
 
-Credits
+## Credits
 -------
 
 **Art, Story and Programming**
